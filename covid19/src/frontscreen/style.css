@@ -1,0 +1,18 @@
+.search-box::placeholder{
+    color: white;
+}
+.search-box{
+    float: right;
+    background-color: rgb(55, 55, 55);
+    padding: 10px 40px 10px 40px;
+    color: white;
+    border-radius: 20px 0px 20px 0px;
+    border: none;
+}
+.logo{
+    position: absolute;
+    font-size: 2em;
+    margin-left: 10px;
+    color: black;
+    text-shadow: 2px 2px 5px grey;
+}
